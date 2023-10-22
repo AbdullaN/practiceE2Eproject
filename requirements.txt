@@ -1,0 +1,19 @@
+tensorflow==2.12.0
+pandas 
+dvc #git but for datasets
+mlflow==2.2.2
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML #read yaml files
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+gdown #read data from google drive
+-e . 
