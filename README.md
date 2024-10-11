@@ -1,4 +1,4 @@
-# practice E2E deep learning image classification project
+# End to End Machine Learning Project Template
 
 
 
